@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "services": [
+    {
+      "id": 1,
+      "code": "vip",
+      "price": 2250,
+      "oldPrice": 119
+    },
+    {
+      "id": 4,
+      "code": "premium",
+      "price": 279,
+      "oldPrice": 279
+    },
+    {
+      "id": 2,
+      "code": "fast",
+      "price": 239,
+      "oldPrice": 239
+    },
+    {
+      "id": 3,
+      "code": "turbo",
+      "price": 519,
+      "oldPrice": 519
+    },
+    {
+        "id": 3,
+        "code": "up",
+        "price": 200,
+        "oldPrice": 239
+    },
+    {
+        "id": 16,
+        "code": "xl",
+        "price": 485,
+        "oldPrice": 239
+    }
+  ]
+}
